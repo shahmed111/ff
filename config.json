@@ -1,0 +1,6 @@
+{
+	"ip":"penguin.aternos.host",
+	"port": "26213",
+	"name": "afkbot",
+	"auto-night-skip":"true"
+}
